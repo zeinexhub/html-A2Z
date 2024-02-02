@@ -7,17 +7,96 @@
     <title>Document</title>
 </head>
 <style>
+    html {
+        background-color: white;
+        color: aliceblue;
+    }
+
     body {
-        border: 1px solid black;
+        padding: 10px;
+        background-color: black;
     }
 
     p {
-        border: 1px solid red;
+        padding: 10px;
+        background-color: red;
+    }
+
+    table {
+        padding: 10px;
+        background-color: teal;
+    }
+
+    div {
+        padding: 10px;
+        background-color: blueviolet;
+    }
+
+    header {
+        padding: 10px;
+        background-color: greenyellow;
+        color: black;
+    }
+
+    section {
+        padding: 10px;
+        background-color: aqua;
+        color: black;
+    }
+
+    footer {
+        padding: 10px;
+        background-color: blue;
     }
 </style>
 
 <body>
-    <p>This is a Paragraph tag. A block-level element.</p>
+    Inside the body tag.
+    <header>
+        This is a header tag. A block-level element.
+    </header>
+    <section>
+        Inside the section tag.
+        <div>
+            Inside the div tag. A block-level element
+        </div>
+        <p>This is a Paragraph tag. A block-level element.</p>
+        <table>
+            <thead>
+                <tr>
+                    <td>This is a Table</td>
+                </tr>
+                <tr>
+                    <td>Id</td>
+                    <td>Name</td>
+                    <td>Subject</td>
+                </tr>
+            </thead>
+            <tbody>
+
+                <tr>
+                    <td>1</td>
+                    <td>Rahim</td>
+                    <td>Bangla</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Karim</td>
+                    <td>English</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td>Id</td>
+                    <td>Name</td>
+                    <td>Subject</td>
+                </tr>
+            </tfoot>
+        </table>
+    </section>
+    <footer>
+        This is footer tag
+    </footer>
 </body>
 
 </html>
