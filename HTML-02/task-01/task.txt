@@ -1,0 +1,16 @@
+Task :
+
+--> Create a basic HTML page structure with the doctype, html, head, meta, title and body tags
+--> title will be "My Travel Blog"
+--> Add comments to the code to explain each section. example: "this is the head section"
+--> Create a heading tag that will have the text "My Travel Blog"
+--> Format the text in your heading tag using italic
+--> create a div and inside the div create a paragraph. write about your experience.
+--> add a button having the text "Read more"
+--> create a span tag which will be outside the div it will have the text "What I bought"
+--> format the text in your span tag bold
+--> create an orderd list of things you bought from the place you visited
+--> create another span tag with the text "My favourite food" and make it "bold"
+--> create an unorderes list of your favourite food you ate in that place.
+--> insert an image of your favourite food using the img tag and add the src, alt, width, and height attribute to it.
+--> create a link to your favourite song of you listened to while travelling using the anchor tag and add the href and target attributes to it. Copy the url link from youtube. use like breaks <br> where necessary.
