@@ -1,6 +1,6 @@
-# HTML A to Z
-
 ### Introduction
+
+---
 
 - Markup Languages
 
@@ -23,6 +23,8 @@
 > JavaScript is a programming language primarily used to create interactive and dynamic effects within web browsers. It allows developers to implement complex features on web pages, updating content dynamically, controlling multimedia, animating images, and much more, enhancing the user experience beyond static HTML and CSS.
 
 ### How the web works
+
+---
 
 - HTTP
 
