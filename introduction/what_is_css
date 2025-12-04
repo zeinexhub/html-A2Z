@@ -1,0 +1,5 @@
+Question: What is CSS?
+
+CSS, বা Cascading Style Sheets, হলো একটি ভাষা যা HTML-এ লেখা ডকুমেন্টের লুক এবং ফরম্যাটিং বর্ণনা করতে ব্যবহৃত হয়। এটি ওয়েবপেজের লে-আউট, রঙ, ফন্ট এবং সামগ্রিক ভিজ্যুয়াল প্রেজেন্টেশন নিয়ন্ত্রণ করে, যাতে বিভিন্ন ডিভাইস এবং স্ক্রিন সাইজে ব্যবহারকারীর অভিজ্ঞতা সুষম এবং আকর্ষণীয় থাকে।
+
+CSS, or Cascading Style Sheets, is a language used to describe the look and formatting of a document written in HTML. It controls things like the layout, colors, fonts, and overall visual presentation of web pages, ensuring a consistent and appealing user experience across different devices and screen sizes.
