@@ -1,0 +1,5 @@
+Question: What is DNS?
+
+DNS (ডোমেইন নেম সিস্টেম) হলো একটি বৈশ্বিক, বিকেন্দ্রীভূত সার্ভার নেটওয়ার্ক, যা মানুষের জন্য সহজে পড়া যায় এমন ডোমেইন নেমকে IP ঠিকানায় রূপান্তর করে। এটি ইন্টারনেটে সহজে নেভিগেশন সম্ভব করে, কারণ www.example.com-এর মতো নামগুলোকে ব্রাউজার সংযোগ করতে পারে এমন সংখ্যাসূচক ঠিকানায় পরিবর্তন করে।
+
+DNS (Domain Name System) translates human-readable domain names into IP addresses through a global, decentralized server network. Enables easy internet navigation by converting names like www.example.com to numeric addresses browsers can connect to.

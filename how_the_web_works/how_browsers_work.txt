@@ -1,0 +1,5 @@
+Question: How Browsers Work?
+
+ওয়েব ব্রাউজার HTML, CSS এবং JavaScript ব্যাখ্যা করে ওয়েবসাইট রিকোয়েস্ট করে এবং প্রদর্শন করে। এগুলো রেন্ডারিং ইঞ্জিন (যেমন Blink, Gecko) ব্যবহার করে পেজ প্রদর্শন করে এবং JavaScript ইঞ্জিন (যেমন V8) ব্যবহার করে কোড এক্সিকিউট করে। ব্রাউজার নিরাপত্তা, বুকমার্ক, হিস্ট্রি এবং ব্যবহারকারীর ইন্টারঅ্যাকশনও পরিচালনা করে, যাতে সহজে ওয়েব নেভিগেশন করা যায়।
+
+Web browsers request and display websites by interpreting HTML, CSS, and JavaScript. Use rendering engines (Blink, Gecko) for display and JavaScript engines (V8) for code execution. Handle security, bookmarks, history, and user interactions for web navigation.

@@ -1,0 +1,5 @@
+Question: What are Domain Name?
+
+ডোমেইন নেম হলো মানুষের জন্য সহজে মনে রাখার মতো ওয়েব ঠিকানা (যেমন: google.com), যা সংখ্যাসূচক IP ঠিকানার বিকল্প হিসেবে ব্যবহৃত হয়। এতে থাকে সেকেন্ড-লেভেল ডোমেইন ('google') এবং টপ-লেভেল ডোমেইন ('.com')। ডোমেইন রেজিস্ট্রারদের মাধ্যমে এটি নিবন্ধন করতে হয়, যা ব্র্যান্ডিং ও অনলাইন উপস্থিতির জন্য অত্যন্ত গুরুত্বপূর্ণ। DNS এই নামগুলোকে IP ঠিকানায় রূপান্তর করে, যাতে সহজে অ্যাক্সেস করা যায়।
+
+Domain names are human-friendly web addresses (e.g., google.com) substituting numerical IP addresses. Comprise second-level ("google") and top-level (".com") domains. Registered through registrars, essential for branding and online presence. DNS translates names to IP addresses for accessibility.

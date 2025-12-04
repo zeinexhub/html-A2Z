@@ -1,0 +1,5 @@
+Question: What is Web Hosting?
+
+ওয়েব হোস্টিং হলো এমন একটি সেবা যেখানে ওয়েবসাইটের ফাইলগুলো সার্ভারে সংরক্ষণ করা হয়, যাতে সেগুলো ইন্টারনেটে সবার জন্য অ্যাক্সেসযোগ্য হয়। হোস্টিংয়ের ধরনগুলোর মধ্যে রয়েছে শেয়ার্ড হোস্টিং (একটি সার্ভারে একাধিক সাইট) এবং ডেডিকেটেড হোস্টিং (একটি সাইটের জন্য আলাদা সার্ভার)। হোস্টিং প্রদানকারীরা ইমেইল, ডোমেইন এবং সিকিউরিটি সার্টিফিকেটের মতো অতিরিক্ত সেবাও দিয়ে থাকে। এটি ওয়েবসাইটের পারফরম্যান্স ও অ্যাক্সেসিবিলিটির জন্য অত্যন্ত গুরুত্বপূর্ণ।
+
+Web hosting stores website files on servers, making sites accessible online. Types include shared (multiple sites per server) and dedicated (exclusive server) hosting. Providers offer additional services like email, domains, and security certificates. Critical for website performance and accessibility.

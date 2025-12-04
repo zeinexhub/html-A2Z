@@ -1,0 +1,5 @@
+Question: What is HTTP?
+
+HTTP (হাইপারটেক্সট ট্রান্সফার প্রোটোকল) ব্রাউজার ও সার্ভারের মধ্যে রিকোয়েস্ট এবং রেসপন্সের মাধ্যমে যোগাযোগ সক্ষম করে। এটি একটি স্টেটলেস প্রোটোকল, যেখানে GET এবং POST-এর মতো মেথড ব্যবহার করা হয়। HTTPS এনক্রিপ্টেড সিকিউরিটি প্রদান করে। নতুন সংস্করণগুলো (HTTP/2, HTTP/3) আরও উন্নত পারফরম্যান্স দেয়। ওয়েব ডেভেলপমেন্ট বুঝতে এটি একটি মৌলিক বিষয়।
+
+HTTP (Hypertext Transfer Protocol) enables browser-server communication through requests and responses. Stateless protocol using methods like GET and POST. HTTPS provides encrypted security. Newer versions (HTTP/2, HTTP/3) offer improved performance. Fundamental for web development understanding.
