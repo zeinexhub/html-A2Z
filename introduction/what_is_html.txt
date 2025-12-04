@@ -1,0 +1,5 @@
+Question: What is HTML?
+
+HTML (হাইপারটেক্সট মার্কআপ ল্যাঙ্গুয়েজ) হলো ওয়েব পেজ তৈরি করার জন্য স্ট্যান্ডার্ড মার্কআপ ভাষা। এটি একটি ওয়েবপেজের কাঠামো প্রদান করে, যেখানে ট্যাগ ব্যবহার করে হেডিং, প্যারাগ্রাফ, ছবি এবং লিঙ্কের মতো উপাদানগুলো সংজ্ঞায়িত করা হয়। ওয়েব ব্রাউজার এই ট্যাগগুলোকে ব্যাখ্যা করে ব্যবহারকারীর কাছে কন্টেন্ট প্রদর্শন করে।
+
+HTML (HyperText Markup Language) is the standard markup language for creating web pages. It provides the structure of a webpage, defining elements like headings, paragraphs, images, and links using tags. Web browsers interpret these tags to display the content to users.

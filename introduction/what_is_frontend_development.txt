@@ -1,0 +1,5 @@
+Question: What is frontend development?
+
+ফ্রন্টএন্ড ডেভেলপমেন্ট হলো একটি ওয়েবসাইট বা ওয়েব অ্যাপ্লিকেশনের ব্যবহারকারী ইন্টারফেস এবং ব্যবহারকারীর অভিজ্ঞতা তৈরির প্রক্রিয়া। এটি সেই অংশগুলোর উপর ফোকাস করে যেগুলোর সঙ্গে ব্যবহারকারীরা সরাসরি ইন্টারঅ্যাক্ট করে—যেমন বোতাম, লেখা, ছবি এবং ন্যাভিগেশন মেনু। ফ্রন্টএন্ড ডেভেলপাররা HTML, CSS এবং JavaScript এর মতো ভাষা ব্যবহার করে এই ইন্টারঅ্যাকটিভ উপাদানগুলো তৈরি করেন, যাতে সেগুলো দেখতে সুন্দর হয় এবং বিভিন্ন ডিভাইস ও ব্রাউজারে সঠিকভাবে কাজ করে।
+
+Frontend development is the practice of creating the user interface and user experience of a website or web application. It focuses on the parts of a website that users directly interact with, such as buttons, text, images, and navigation menus. Frontend developers use languages like HTML, CSS, and JavaScript to build these interactive elements and ensure they are visually appealing and function correctly across different devices and browsers.
