@@ -1,0 +1,5 @@
+Question: What are markup languages?
+
+মার্কআপ ল্যাঙ্গুয়েজ হলো এমন এক ধরনের পদ্ধতি যেখানে লেখার মধ্যে বিশেষ ধরনের ট্যাগ বা চিহ্ন যোগ করে তা মানুষ ও কম্পিউটার—উভয়ের জন্যই বোঝার উপযোগী করা হয়। এসব ট্যাগ ব্যবহার করে কোনো নথির ভেতরের বিভিন্ন উপাদানকে চিহ্নিত করা হয়, যার মাধ্যমে লেখা কীভাবে সাজানো, ফরম্যাট করা এবং প্রদর্শন করা হবে—তা নির্ধারণ করা যায়। উদাহরণ হিসেবে HTML-এ <p> ট্যাগ অনুচ্ছেদ বোঝাতে এবং <h1> ট্যাগ শিরোনাম বোঝাতে ব্যবহৃত হয়, আর XML-এ নানা ধরনের কাস্টম ট্যাগ ব্যবহার করে বিভিন্ন ডেটা স্ট্রাকচার নির্ধারণ করা হয়।
+
+Markup languages are systems for annotating text in a way that makes it readable by both humans and computers. They use tags to define elements within a document, specifying how the text should be structured, formatted, and displayed. For example, HTML uses tags like <p> for paragraphs and <h1> for headings to structure web content, while XML uses custom tags to define data structures for various applications.
