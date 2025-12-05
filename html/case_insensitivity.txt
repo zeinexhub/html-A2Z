@@ -1,0 +1,5 @@
+Topic: case insensitivity
+
+HTML বড় হাতের বা ছোট হাতের অক্ষর নিয়ে সংবেদনশীল নয়। তুমি ট্যাগ এবং অ্যাট্রিবিউট বড় হাতের, ছোট হাতের বা মিশ্র অক্ষরে লিখলেও কাজ করবে। উদাহরণস্বরূপ, <html>, <HTML>, এবং <Html>—এই তিনটিই একইভাবে কাজ করে। ব্রাউজার সব ধরনের লেখাই বুঝতে পারে, তবে কোডকে আরও পড়তে সুবিধাজনক এবং ধারাবাহিক রাখতে সাধারণত ছোট হাতের অক্ষর ব্যবহার করাই ভালো অভ্যাস হিসেবে বিবেচিত হয়।
+
+HTML isn't picky about capitalization. You can write tags and attributes using uppercase, lowercase, or a mix of both. For example, <html>, <HTML>, and <Html> all work the same way. While browsers understand all these variations, it's generally considered good practice to stick to lowercase for better readability and consistency in your code.

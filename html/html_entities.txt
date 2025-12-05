@@ -1,0 +1,5 @@
+Question: What are HTML Entities?
+
+HTML Entities হলো বিশেষ কোড, যা এমন কিছু সংরক্ষিত বা সরাসরি টাইপ করা কঠিন অক্ষর প্রদর্শনের জন্য ব্যবহার করা হয়। এগুলো ব্যবহার করে তুমি অ্যাঙ্গেল ব্র্যাকেট (< এবং >), অ্যাম্পারস্যান্ড (&), কপিরাইট চিহ্ন (©)–এর মতো অক্ষর দেখাতে পারো, যেগুলোর HTML-এ বিশেষ কাজ রয়েছে বা সাধারণ কিবোর্ডে সহজে পাওয়া যায় না। Entities ব্যবহারের ফলে এই অক্ষরগুলো ওয়েব ব্রাউজারে সঠিকভাবে প্রদর্শিত হয়।
+
+HTML entities are special codes used to represent reserved characters or characters that are difficult to type directly in HTML. They allow you to display characters like angle brackets (< and >), ampersands (&), and copyright symbols (©) that have special meanings in HTML or are not readily available on a standard keyboard. Using entities ensures that these characters are displayed correctly in a web browser.

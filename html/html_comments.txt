@@ -1,0 +1,5 @@
+Topic : HTML Comments
+
+HTML-এ কমেন্ট হলো এমন নোট, যা তুমি তোমার কোডে যোগ করতে পারো—কোডে কী হচ্ছে তা ব্যাখ্যা করতে, নিজের জন্য রিমাইন্ডার রাখতে, অথবা কোডের কোনো অংশ সাময়িকভাবে বন্ধ রাখতে। এই কমেন্টগুলো ব্রাউজারে দেখা যায় না, তাই শুধুমাত্র সোর্স কোড দেখলে দেখা যায়। HTML-এ কমেন্ট তৈরি করতে হলে লেখাকে <!-- এবং --> এর মধ্যে লিখতে হয়। এই দুই ট্যাগের মাঝে যা থাকবে, ব্রাউজার তা উপেক্ষা করবে।
+
+Comments in HTML are notes that you can add to your code to explain what's going on, make reminders, or temporarily disable parts of your code. These comments are not displayed in the browser, so they're only visible when someone views the source code. To create a comment in HTML, you enclose your text within `<!--` and `-->`. Anything between these tags will be ignored by the browser.

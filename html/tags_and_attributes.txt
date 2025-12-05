@@ -1,0 +1,6 @@
+Question: What are tags and attributes?
+
+ট্যাগ এবং অ্যাট্রিবিউট হলো HTML-এর মৌলিক নির্মাণ উপাদান। ট্যাগ একটি ওয়েবপেজের কাঠামো এবং কন্টেন্ট নির্ধারণ করে, যেমন হেডিং, প্যারাগ্রাফ এবং ছবি। অ্যাট্রিবিউট HTML উপাদানগুলোর অতিরিক্ত তথ্য প্রদান করে, যা তাদের আচরণ বা চেহারাকে পরিবর্তন করতে পারে—যেমন কোনো ছবির সোর্স নির্ধারণ করা বা কোনো লিঙ্কের গন্তব্য ঠিক করা।
+
+Tags and attributes are fundamental building blocks of HTML. Tags define the structure and content of a webpage, such as headings, paragraphs, and images. Attributes provide additional information about HTML elements, modifying their behavior or appearance, like specifying the source of an image or the destination of a link.
+

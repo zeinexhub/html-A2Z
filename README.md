@@ -49,3 +49,27 @@
 - SEO
 
 > Search Engine Optimization, or SEO, is the practice of improving your website to increase its visibility when people search for products or services related to your business in search engines like Google. The better visibility your pages have in search results, the more likely you are to garner attention and attract prospective and existing customers to your business. A related concept, Generative Engine Optimization (GEO), focuses on optimizing content for AI-powered search experiences, ensuring your information is accurately and effectively presented in AI-generated summaries and responses.
+
+### HTML
+
+---
+
+- Tags and Attributes
+
+> Tags and attributes are fundamental building blocks of HTML. Tags define the structure and content of a webpage, such as headings, paragraphs, and images. Attributes provide additional information about HTML elements, modifying their behavior or appearance, like specifying the source of an image or the destination of a link.
+
+- Case Insensitivity
+
+> HTML isn't picky about capitalization. You can write tags and attributes using uppercase, lowercase, or a mix of both. For example, `<html>`, `<HTML>`, and `<Html>` all work the same way. While browsers understand all these variations, it's generally considered good practice to stick to lowercase for better readability and consistency in your code.
+
+- Entities
+
+> HTML entities are special codes used to represent reserved characters or characters that are difficult to type directly in HTML. They allow you to display characters like angle brackets (< and >), ampersands (&), and copyright symbols (©) that have special meanings in HTML or are not readily available on a standard keyboard. Using entities ensures that these characters are displayed correctly in a web browser.
+
+- Comments
+
+> Comments in HTML are notes that you can add to your code to explain what's going on, make reminders, or temporarily disable parts of your code. These comments are not displayed in the browser, so they're only visible when someone views the source code. To create a comment in HTML, you enclose your text within `<!--` and `-->`. Anything between these tags will be ignored by the browser.
+
+- Whitespaces
+
+> Whitespaces in HTML refer to the spaces, tabs, and line breaks that are used to format the code. Browsers typically collapse multiple consecutive whitespaces into a single space when rendering the content. While using whitespaces can improve the readability of your HTML code, they generally don't affect how the page is displayed to the user.

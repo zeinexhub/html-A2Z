@@ -1,0 +1,6 @@
+Topic : Whitespaces
+
+HTML-এ Whitespace বলতে স্পেস, ট্যাব এবং লাইন ব্রেককে বোঝায়, যেগুলো কোডকে সাজানো ও পাঠযোগ্য করে তুলতে ব্যবহার করা হয়। ব্রাউজার সাধারণত একাধিক ধারাবাহিক Whitespace–কে একটি স্পেসে রূপান্তর করে যখন কনটেন্ট রেন্ডার করে। যদিও Whitespace ব্যবহার করলে HTML কোড পড়তে সহজ হয়, তবে সাধারণত এগুলো ওয়েবপেজ ব্যবহারকারীর কাছে কীভাবে প্রদর্শিত হবে তা পরিবর্তন করে না।
+
+Whitespaces in HTML refer to the spaces, tabs, and line breaks that are used to format the code. Browsers typically collapse multiple consecutive whitespaces into a single space when rendering the content. While using whitespaces can improve the readability of your HTML code, they generally don't affect how the page is displayed to the user.
+
