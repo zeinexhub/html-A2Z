@@ -1,0 +1,5 @@
+Topic: Links
+
+লিঙ্ক, যাকে হাইপারলিঙ্কও বলা হয়, হলো এমন এলিমেন্ট যা একটি ওয়েব রিসোর্সকে অন্যটির সঙ্গে সংযুক্ত করে। এগুলো ব্যবহারকারীদের একই ওয়েবসাইটের বিভিন্ন পেজ বা অন্য কোনো ওয়েবসাইটে নেভিগেট করতে সাহায্য করে। লিঙ্ক তৈরি করতে <a> (অ্যাঙ্কর) ট্যাগ ব্যবহার করা হয়, এবং এগুলো বিভিন্ন ধরনের রিসোর্সের দিকে নির্দেশ করতে পারে, যেমন HTML পেজ, ছবি, ডকুমেন্ট ইত্যাদি।
+
+Links, also known as hyperlinks, are elements that connect one web resource to another. They allow users to navigate between different pages on the same website or to external websites. Links are created using the <a> (anchor) tag, and they can point to various types of resources, including HTML pages, images, documents, and more.

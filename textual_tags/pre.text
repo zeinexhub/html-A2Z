@@ -1,0 +1,5 @@
+Topic: pre 
+
+<pre> ট্যাগ HTML-এ প্রিফরম্যাটেড বা আগের মতো সাজানো টেক্সট প্রদর্শনের জন্য ব্যবহৃত হয়। <pre> ট্যাগের ভেতরের লেখাগুলো fixed-width ফন্টে দেখানো হয় এবং সেখানে থাকা স্পেস ও লাইন ব্রেক ঠিক 그대로 সংরক্ষণ করা হয়। এটি কোড স্নিপেট, ASCII আর্ট বা যেকোনো গুরুত্বপূর্ণ ফরম্যাট রাখা দরকার এমন টেক্সট দেখানোর জন্য খুবই উপযোগী।
+
+The <pre> tag in HTML represents preformatted text. Text inside a <pre> element is displayed in a fixed-width font, and it preserves both spaces and line breaks. This is useful for displaying code snippets, ASCII art, or any other text where formatting is important.

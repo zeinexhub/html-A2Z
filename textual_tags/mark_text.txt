@@ -1,0 +1,5 @@
+Topic: Mark Text
+
+HTML-এ <mark> ট্যাগ বড় কনটেন্টের মধ্যে নির্দিষ্ট অংশ হাইলাইট করতে ব্যবহার করা হয়। এটি মূলত পাঠকের দৃষ্টি সেই অংশে আকর্ষণ করার জন্য ব্যবহৃত হয়, সাধারণত কারণ সেই অংশটি ব্যবহারকারীর বর্তমান কার্যকলাপ বা সার্চ কুয়েরির সাথে প্রাসঙ্গিক। ডিফল্ট স্টাইলিংয়ে হাইলাইট করা টেক্সটটি সাধারণত হলুদ ব্যাকগ্রাউন্ডে দেখানো হয়, তবে CSS ব্যবহার করে এটিকে কাস্টমাইজ করা যায়।
+
+The <mark> tag in HTML is used to highlight specific parts of text within a larger block of content. It's primarily intended to draw the reader's attention to these sections, often because they are relevant to the user's current activity or search query. The default styling usually renders the marked text with a yellow background, but this can be customized using CSS.

@@ -1,0 +1,5 @@
+Topic: head
+
+<head> এলিমেন্ট HTML ডকুমেন্টের জন্য একটি কনটেইনার হিসেবে কাজ করে, যেখানে মেটাডাটা (ডেটা সম্পর্কে ডেটা) সংরক্ষণ করা হয়। এই মেটাডাটা ওয়েবপেজে দেখা যায় না, কিন্তু ডকুমেন্টের শিরোনাম, ক্যারেক্টার সেট, লিঙ্ক করা স্টাইলশিট, স্ক্রিপ্ট এবং অন্যান্য গুরুত্বপূর্ণ সেটিংসের মতো তথ্য ব্রাউজার ও সার্চ ইঞ্জিনকে দেয়, যাতে তারা পেজটি সঠিকভাবে বুঝতে ও প্রক্রিয়া করতে পারে।
+
+The `<head>` element in HTML acts as a container for metadata (data about data) about the HTML document. This metadata isn't displayed on the page itself, but it provides information like the document's title, character set, linked stylesheets, scripts, and other important configurations that help browsers and search engines understand and process the HTML document correctly.

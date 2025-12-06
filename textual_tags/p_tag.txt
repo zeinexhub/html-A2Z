@@ -1,0 +1,5 @@
+Topic: p Tag
+
+<p> ট্যাগ HTML-এ একটি প্যারাগ্রাফ বা অনুচ্ছেদ নির্ধারণ করে। ব্রাউজার স্বয়ংক্রিয়ভাবে প্রতিটি প্যারাগ্রাফের আগে এবং পরে একটি ফাঁকা লাইন যোগ করে, যাতে টেক্সটের ব্লকগুলো আলাদা করে বোঝা যায়। এটি একটি ব্লক-লেভেল এলিমেন্ট—অর্থাৎ এটি পুরো প্রস্থ দখল করে এবং সবসময় নতুন লাইনে শুরু হয়।
+
+The <p> tag in HTML defines a paragraph. Browsers automatically add a single blank line before and after each paragraph, creating a clear separation between blocks of text. It's a block-level element, meaning it occupies the full width available to it and starts on a new line.

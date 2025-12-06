@@ -1,0 +1,5 @@
+Topic: Meta Tags
+
+মেটা ট্যাগ হল এমন HTML এলিমেন্ট যা একটি ওয়েবপেজ সম্পর্কে মেটাডাটা প্রদান করে। এই ডেটা সরাসরি পেজে দেখা যায় না, কিন্তু ব্রাউজার, সার্চ ইঞ্জিন এবং বিভিন্ন ওয়েব সার্ভিস এই তথ্য ব্যবহার করে পেজের কনটেন্ট ও উদ্দেশ্য বুঝে। মেটা ট্যাগগুলো HTML ডকুমেন্টের <head> সেকশনের মধ্যে থাকে এবং ক্যারেক্টার সেট, পেজের বর্ণনা (description), কীওয়ার্ড, লেখক (author), এবং ভিউপোর্ট সেটিংসের মতো তথ্য নির্ধারণ করতে ব্যবহৃত হয়।
+
+Meta tags are HTML elements that provide metadata about a webpage. This data is not displayed on the page itself but is used by browsers, search engines, and other web services to understand the content and purpose of the page. They are placed within the <head> section of an HTML document and can specify information like character set, description, keywords, author, and viewport settings.

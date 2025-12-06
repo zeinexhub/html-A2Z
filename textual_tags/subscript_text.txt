@@ -1,0 +1,5 @@
+Topic: Subscript Text
+
+HTML-এ <sub> ট্যাগ টেক্সটকে সাবস্ক্রিপ্ট আকারে দেখানোর জন্য ব্যবহার করা হয়। সাবস্ক্রিপ্ট টেক্সট সাধারণ লাইনের নিচে সামান্য নিচে প্রদর্শিত হয় এবং সাধারণত ছোট ফন্ট সাইজে থাকে। এটি সাধারণত গণিতের সূত্র, রাসায়নিক সূত্র বা ফুটনোট প্রদর্শনের জন্য ব্যবহৃত হয়।
+
+The <sub> tag in HTML is used to display text as subscript. Subscript text appears slightly below the normal line of text and is typically rendered in a smaller font size. It's commonly used for mathematical formulas, chemical formulas, or footnotes.

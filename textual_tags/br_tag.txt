@@ -1,0 +1,5 @@
+Topic: br Tag
+
+<br> ট্যাগ HTML-এ একটি লাইন ব্রেক তৈরি করে। এটি নতুন প্যারাগ্রাফ তৈরি না করে শুধু টেক্সটকে পরবর্তী লাইনে নিয়ে যায়। অর্থাৎ, যেখানেই <br> ব্যবহার করা হয়, তার পরের অংশ নতুন লাইনে শুরু হয়। এটি একটি empty element, তাই এর কোনো closing ট্যাগ নেই।
+
+The <br> tag in HTML creates a line break within a text block. It's used to start a new line without creating a new paragraph, effectively forcing the text that follows to appear on the next line. It is an empty element, meaning it has no closing tag.

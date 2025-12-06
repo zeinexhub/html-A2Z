@@ -1,0 +1,5 @@
+Topic: Horizontal Rule
+
+<hr> ট্যাগ HTML পেজে একটি থিম্যাটিক ব্রেক বা বিষয়বস্তুর বিভাজন তৈরি করে, যা সাধারণত একটি অনুভূমিক লাইন হিসেবে প্রদর্শিত হয়। এটি কনটেন্টকে ভিজুয়ালি আলাদা করতে ব্যবহৃত হয়—যেমন টেক্সটের সেকশন ভাগ করা বা নতুন বিষয়ে পরিবর্তন বোঝাতে। <hr> একটি empty element, অর্থাৎ এর কোনো closing ট্যাগ নেই।
+
+The <hr> tag in HTML creates a thematic break in an HTML page and is most often displayed as a horizontal rule. It's used to separate content visually, like dividing sections of text or indicating a change in topic. The <hr> tag is an empty element, meaning it doesn't have a closing tag.

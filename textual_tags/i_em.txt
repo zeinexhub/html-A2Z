@@ -1,0 +1,5 @@
+Topic: i / em
+
+HTML-এ <i> এবং <em> ট্যাগ টেক্সটকে গুরুত্ব বা জোর দেওয়ার জন্য ব্যবহৃত হয়। <i> ট্যাগ এমন টেক্সটকে নির্দেশ করে যা সাধারণ লেখার থেকে আলাদা, যেমন টেকনিক্যাল টার্ম, বিদেশি শব্দ বা চিন্তা। <em> ট্যাগ তার ভেতরের টেক্সটের উপর জোর বা স্ট্রেস দেখায়। যদিও ব্রাউজারে উভয়ই সাধারণত ইতালিক ফন্টে প্রদর্শিত হয়, <em> এর সেম্যান্টিক অর্থ রয়েছে—এটি গুরুত্ব বোঝায়, যেখানে <i> শুধুই ভিজুয়াল বা প্রেজেন্টেশনাল উদ্দেশ্যে ব্যবহৃত হয়।
+
+The <i> and <em> tags in HTML are used to emphasize text. The <i> tag represents text that is set off from the normal prose, such as technical terms, foreign words, or thoughts. The <em> tag represents stress emphasis of its contents. While both may render similarly in browsers (often as italicized text), <em> has semantic meaning, indicating importance, whereas <i> is purely presentational.

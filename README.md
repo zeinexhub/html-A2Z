@@ -89,3 +89,63 @@
 - Body Tag
 
 > The `<body>` tag in HTML defines the main content of an HTML document. It contains all the visible elements of a webpage, such as text, images, links, tables, lists, and more. Think of it as the container for everything you actually see and interact with on a website.
+
+- head
+
+> The `<head>` element in HTML acts as a container for metadata (data about data) about the HTML document. This metadata isn't displayed on the page itself, but it provides information like the document's title, character set, linked stylesheets, scripts, and other important configurations that help browsers and search engines understand and process the HTML document correctly.
+
+- Meta Tags
+
+> Meta tags are HTML elements that provide metadata about a webpage. This data is not displayed on the page itself but is used by browsers, search engines, and other web services to understand the content and purpose of the page. They are placed within the `<head>` section of an HTML document and can specify information like character set, description, keywords, author, and viewport settings.
+
+### Textual Tags
+
+---
+
+- h1 to h6
+
+> Headings are used to define the titles and subtitles within a document. HTML provides six levels of headings, from `<h1>` (the most important and largest) to `<h6>` (the least important and smallest). They help structure content and improve readability by creating a clear hierarchy.
+
+- Title Tag
+
+> The `<title>` tag in HTML defines the title of the HTML document. This title is displayed in the browser's title bar or tab, and it's also used for bookmarking pages and in search engine results. It's placed within the `<head>` section of the HTML document.
+
+- p Tag
+
+> The `<p>` tag in HTML defines a paragraph. Browsers automatically add a single blank line before and after each paragraph, creating a clear separation between blocks of text. It's a block-level element, meaning it occupies the full width available to it and starts on a new line.
+
+- Horizontal Rule
+
+> The `<hr>` tag in HTML creates a thematic break in an HTML page and is most often displayed as a horizontal rule. It's used to separate content visually, like dividing sections of text or indicating a change in topic. The `<hr>` tag is an empty element, meaning it doesn't have a closing tag.
+
+- br Tag
+
+> The `<br>` tag in HTML creates a line break within a text block. It's used to start a new line without creating a new paragraph, effectively forcing the text that follows to appear on the next line. It is an empty element, meaning it has no closing tag.
+
+- b / strong
+
+> The `<b>` and `<strong>` tags in HTML are used to make text appear bold. While both achieve a similar visual effect, the `<b>` tag is primarily for stylistic purposes, indicating text that should be visually distinguished without necessarily conveying importance. On the other hand, the `<strong>` tag signifies that the enclosed text has strong importance, seriousness, or urgency.
+
+- pre
+
+> The `<pre>` tag in HTML represents preformatted text. Text inside a `<pre>` element is displayed in a fixed-width font, and it preserves both spaces and line breaks. This is useful for displaying code snippets, ASCII art, or any other text where formatting is important.
+
+- i / em
+
+> The `<i>` and `<em>` tags in HTML are used to emphasize text. The `<i>` tag represents text that is set off from the normal prose, such as technical terms, foreign words, or thoughts. The `<em>` tag represents stress emphasis of its contents. While both may render similarly in browsers (often as italicized text), `<em>` has semantic meaning, indicating importance, whereas `<i>` is purely presentational.
+
+- Mark Text
+
+> The `<mark>` tag in HTML is used to highlight specific parts of text within a larger block of content. It's primarily intended to draw the reader's attention to these sections, often because they are relevant to the user's current activity or search query. The default styling usually renders the marked text with a yellow background, but this can be customized using CSS.
+
+- Subscript Text
+
+> The `<sub>` tag in HTML is used to display text as subscript. Subscript text appears slightly below the normal line of text and is typically rendered in a smaller font size. It's commonly used for mathematical formulas, chemical formulas, or footnotes.
+
+- sup
+
+> The `<sup>` tag in HTML is used to display text as superscript. Superscript text appears slightly above the normal line of text and is typically rendered in a smaller font size. It's commonly used for things like exponents, ordinal numbers (e.g., 1st, 2nd), and footnotes.
+
+- Links
+
+> Links, also known as hyperlinks, are elements that connect one web resource to another. They allow users to navigate between different pages on the same website or to external websites. Links are created using the `<a>` (anchor) tag, and they can point to various types of resources, including HTML pages, images, documents, and more.

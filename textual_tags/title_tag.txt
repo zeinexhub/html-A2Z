@@ -1,0 +1,5 @@
+Topic: Title Tag
+
+<title> ট্যাগ HTML ডকুমেন্টের শিরোনাম নির্ধারণ করে। এই শিরোনাম ব্রাউজারের টাইটেল বার বা ট্যাবে দেখা যায়, বুকমার্ক করার সময় ব্যবহার হয় এবং সার্চ ইঞ্জিন রেজাল্টেও প্রদর্শিত হয়। এটি HTML ডকুমেন্টের <head> সেকশনের ভেতরে থাকে।
+
+The <title> tag in HTML defines the title of the HTML document. This title is displayed in the browser's title bar or tab, and it's also used for bookmarking pages and in search engine results. It's placed within the <head> section of the HTML document.

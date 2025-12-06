@@ -1,0 +1,5 @@
+Topic: b / strong
+
+HTML-এ <b> এবং <strong> ট্যাগ টেক্সটকে বোল্ড বা গাঢ় দেখাতে ব্যবহৃত হয়। দুটোই দেখতে একই রকম বোল্ড তৈরি করলেও, কাজের উদ্দেশ্যে পার্থক্য আছে। <b> ট্যাগ শুধু স্টাইল বা ভিজুয়ালভাবে টেক্সটকে আলাদা করে দেখানোর জন্য ব্যবহৃত হয়—এটি কোনো বিশেষ গুরুত্ব বোঝায় না। অন্যদিকে, <strong> ট্যাগ ব্যবহার করা হয় যখন টেক্সটটি খুব গুরুত্বপূর্ণ, গুরুতর বা জরুরি অর্থ বহন করে।
+
+The <b> and <strong> tags in HTML are used to make text appear bold. While both achieve a similar visual effect, the <b> tag is primarily for stylistic purposes, indicating text that should be visually distinguished without necessarily conveying importance. On the other hand, the <strong> tag signifies that the enclosed text has strong importance, seriousness, or urgency.
