@@ -1,0 +1,5 @@
+Topic: Data Attributes
+
+HTML-এ ডাটা অ্যাট্রিবিউট হল বিশেষ ধরনের অ্যাট্রিবিউট, যা HTML এলিমেন্টের মধ্যে অতিরিক্ত তথ্য সরাসরি সংরক্ষণ করার সুযোগ দেয়। এই অ্যাট্রিবিউটগুলো data- দিয়ে শুরু হয় এবং এর পরে তুমি নিজের পছন্দের নাম দিতে পারো। এগুলো মূলত পেজ বা অ্যাপ্লিকেশনের জন্য কাস্টম ডেটা সংরক্ষণের জন্য ব্যবহৃত হয়, অর্থাৎ সার্চ ইঞ্জিন বা অন্যান্য এক্সটার্নাল সার্ভিসের জন্য নয়। পরে এই ডেটা JavaScript ব্যবহার করে অ্যাক্সেস করা যায় এবং ওয়েবপেজের কার্যকারিতা ও ইন্টারঅ্যাকটিভিটি বাড়াতে ব্যবহার করা যায়।
+
+Data attributes are special attributes in HTML that allow you to store extra information directly within HTML elements. These attributes start with data- followed by a name of your choosing. They are primarily used to store custom data private to the page or application, meaning they are not intended for use by search engines or other external services. This data can then be accessed and used by JavaScript to enhance the functionality and interactivity of your web pages.

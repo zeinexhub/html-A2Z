@@ -1,0 +1,5 @@
+Topic: Style Attribute
+
+HTML-এ style অ্যাট্রিবিউট ব্যবহার করে CSS (Cascading Style Sheets) সরাসরি কোনো নির্দিষ্ট HTML এলিমেন্টের ওপর প্রয়োগ করা যায়। এটি ইনলাইন স্টাইল নির্ধারণের জন্য ব্যবহৃত হয়, যা এক্সটার্নাল স্টাইলশিট বা ব্রাউজারের ডিফল্ট স্টাইলকে ওভাররাইড করতে পারে। HTML ট্যাগের মধ্যে সরাসরি রঙ, ফন্ট, সাইজ এবং লেআউটের মতো প্রপার্টি নির্ধারণ করা সম্ভব।
+
+The style attribute in HTML allows you to apply CSS (Cascading Style Sheets) directly to individual HTML elements. It's used to define inline styles, overriding external stylesheets or default browser styles. You can set properties like color, font, size, and layout directly within the HTML tag.

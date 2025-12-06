@@ -1,0 +1,5 @@
+Topic: Span Element
+
+<span> এলিমেন্ট হলো একটি ইনলাইন কনটেইনার, যা টেক্সটের একটি অংশ বা ডকুমেন্টের একটি অংশকে মার্কআপ করতে ব্যবহৃত হয়। এটি মূলত স্টাইলিংয়ের জন্য বা যেসব এলিমেন্টের সাধারণ অ্যাট্রিবিউট যেমন lang বা dir রয়েছে তাদের গ্রুপ করতে ব্যবহৃত হয়। <span> স্বয়ংক্রিয়ভাবে কোনো নির্দিষ্ট অর্থ বহন করে না, তবে CSS বা JavaScript-এর সঙ্গে মিলিত হলে টেক্সটের নির্দিষ্ট অংশকে টার্গেট করতে এটি খুবই কার্যকর হয়।
+
+The <span> element is an inline container used to mark up a part of a text, or a part of a document. It is used to group elements for styling purposes or because they share attributes such as lang or dir. It doesn't inherently represent anything on its own, but becomes useful when combined with CSS or JavaScript to target specific sections of text.

@@ -149,3 +149,35 @@
 - Links
 
 > Links, also known as hyperlinks, are elements that connect one web resource to another. They allow users to navigate between different pages on the same website or to external websites. Links are created using the `<a>` (anchor) tag, and they can point to various types of resources, including HTML pages, images, documents, and more.
+
+### Grouping text
+
+---
+
+- div
+
+> The `<div>` element is a generic container for flow content, which in simpler terms means it's a way to group together other HTML elements. It doesn't inherently represent anything specific on its own, but it's commonly used to structure and style sections of a webpage. It has no effect on the content or layout until styled in some way using CSS (e.g., styling is directly applied to it, or some kind of layout model like Flexbox is applied to its parent element).
+
+- span element
+
+> The `<span>` element is an inline container used to mark up a part of a text, or a part of a document. It is used to group elements for styling purposes or because they share attributes such as lang or dir. It doesn't inherently represent anything on its own, but becomes useful when combined with CSS or JavaScript to target specific sections of text.
+
+### Standard attributes
+
+---
+
+- id Attribute
+
+> The `id` attribute in HTML provides a unique identifier for an element within a document. This identifier allows you to target and manipulate that specific element using CSS styles, JavaScript code, or even link directly to it using fragment identifiers in URLs (e.g., #section1). Each id value should be unique within the entire HTML document to ensure proper functionality.
+
+- Class Attribute
+
+> The `class` attribute in HTML is used to specify one or more class names for an HTML element. These class names can then be used by CSS and JavaScript to style and manipulate specific elements or groups of elements that share the same class. Essentially, it's a way to categorize and target elements for styling and scripting purposes.
+
+- Data Attributes
+
+> Data attributes are special attributes in HTML that allow you to store extra information directly within HTML elements. These attributes start with `data-` followed by a name of your choosing. They are primarily used to store custom data private to the page or application, meaning they are not intended for use by search engines or other external services. This data can then be accessed and used by JavaScript to enhance the functionality and interactivity of your web pages.
+
+- Style Attribute
+
+> The `style` attribute in HTML allows you to apply CSS (Cascading Style Sheets) directly to individual HTML elements. It's used to define inline styles, overriding external stylesheets or default browser styles. You can set properties like color, font, size, and layout directly within the HTML tag.
