@@ -1,0 +1,5 @@
+Topic : Body Tag
+
+<body> ট্যাগ HTML ডকুমেন্টের মূল কনটেন্ট নির্ধারণ করে। ওয়েবপেজে যা কিছু দেখা যায়—যেমন লেখা, ছবি, লিঙ্ক, টেবিল, লিস্ট—সবই <body> ট্যাগের ভেতরে থাকে। একে সেই কন্টেইনার হিসেবে ভাবতে পারো, যেখানে ওয়েবসাইটে ব্যবহারকারী যে সবকিছু দেখে ও ইন্টারঅ্যাক্ট করে তা রাখা হয়।
+
+The `<body>` tag in HTML defines the main content of an HTML document. It contains all the visible elements of a webpage, such as text, images, links, tables, lists, and more. Think of it as the container for everything you actually see and interact with on a website.

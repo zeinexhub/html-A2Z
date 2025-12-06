@@ -1,0 +1,5 @@
+Question : What is the DOCTYPE Declaration in HTML?
+
+<!DOCTYPE> ঘোষণা হলো একটি নির্দেশনা যা ওয়েব ব্রাউজারকে জানায় যে পেজটি কোন HTML ভার্সন ব্যবহার করে লেখা হয়েছে। এটি HTML ডকুমেন্টের একেবারে শীর্ষে রাখা হয়, <html> ট্যাগের আগে। এর উদ্দেশ্য হলো ব্রাউজারকে ‘স্ট্যান্ডার্ডস মোড’-এ পেজটি রেন্ডার করতে বাধ্য করা, যাতে সেই HTML ভার্সনের সঠিক নিয়ম ও স্পেসিফিকেশন অনুসরণ করা হয়। প্রযুক্তিগতভাবে এটি কোনো HTML ট্যাগ নয়।
+
+The `<!DOCTYPE>` declaration is an instruction to the web browser about the HTML version used to write the page. It's placed at the very top of an HTML document, before the `<html>` tag, and ensures that the browser renders the page in "standards mode," following the correct specifications for that HTML version. Technically, It is not an HTML tag itself.

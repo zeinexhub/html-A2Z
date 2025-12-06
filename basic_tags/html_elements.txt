@@ -1,0 +1,5 @@
+Topic : HTML Element
+
+<html> এলিমেন্ট একটি HTML পেজের মূল বা রুট এলিমেন্ট। এটি ব্রাউজারকে জানায় যে এটি একটি HTML ডকুমেন্ট। <html> এলিমেন্টের ভেতরেই অন্যান্য সব HTML এলিমেন্ট থাকতে হবে (শুধুমাত্র <!DOCTYPE> ডিক্লারেশন ব্যতীত)।
+
+The <html> element is the root element of an HTML page. It tells the browser that this is an HTML document. All other HTML elements (except for the <!DOCTYPE> declaration) must be descendants of the <html> element.
