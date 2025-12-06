@@ -1,0 +1,6 @@
+Topic: Nested Lists
+
+HTML-এ Nested Lists (নেস্টেড লিস্ট) ব্যবহার করে একটি তালিকার মধ্যে অন্য তালিকা তৈরি করা যায়, যা একটি হায়ারার্কিকাল বা স্তরভিত্তিক কাঠামো তৈরি করে। এটি করা হয় অন্য একটি তালিকার <li> আইটেমের ভিতরে একটি নতুন তালিকা (<ol> বা <ul>) রাখার মাধ্যমে। এর ফলে একটি সাব-লিস্ট তৈরি হয়, যা ভিজুয়ালি ইনডেন্টেড হয় এবং তথ্যকে সম্পর্কিত ক্যাটাগরি ও সাবক্যাটাগরিতে সাজাতে সাহায্য করে।
+
+Nested lists in HTML allow you to create lists within lists, forming a hierarchical structure. This is achieved by placing one list (either ordered <ol> or unordered <ul>) inside a list item <li> of another list. This creates a sub-list that is visually indented, helping to organize information into related categories and subcategories.
+

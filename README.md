@@ -181,3 +181,27 @@
 - Style Attribute
 
 > The `style` attribute in HTML allows you to apply CSS (Cascading Style Sheets) directly to individual HTML elements. It's used to define inline styles, overriding external stylesheets or default browser styles. You can set properties like color, font, size, and layout directly within the HTML tag.
+
+### Lists and Types
+
+---
+
+- Ordered lists
+
+> Ordered lists in HTML are used to display a series of items in a specific order. Each item in the list is typically numbered, allowing readers to easily follow a sequence or ranking. The `<ol>` tag is used to create an ordered list, and each list item is defined using the `<li>` tag.
+
+- Unordered lists
+
+> Unordered lists present items in a bulleted format, where the order of the items is not significant. They are used to group related content together without implying any specific sequence or priority. Each item in the list is typically marked with a bullet point, making it easy to visually distinguish and scan the list's contents.
+
+- Definition lists
+
+> Definition lists in HTML are used to present terms and their corresponding definitions. They are structured using three main elements: `<dl>` (definition list), `<dt>` (definition term), and `<dd>` (definition description). The `<dl>` element acts as the container for the entire list, while each term is marked with `<dt>` and its associated description is enclosed within `<dd>`. This structure allows for a clear and organized presentation of terms and their meanings.
+
+- Nested Lists
+
+> Nested lists in HTML allow you to create lists within lists, forming a hierarchical structure. This is achieved by placing one list (either ordered `<ol>` or unordered `<ul>`) inside a list item `<li>` of another list. This creates a sub-list that is visually indented, helping to organize information into related categories and subcategories.
+
+- Table tag
+
+> The HTML `<table>` tag is used to create tables on web pages. It organizes data into rows and columns, similar to a spreadsheet. Within the `<table>` tag, you'll find tags like `<tr>` for table rows, `<th>` for table headers, and `<td>` for table data cells, which define the structure and content of the table.

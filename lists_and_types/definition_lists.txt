@@ -1,0 +1,5 @@
+Topic: Definition Lists
+
+HTML-এ Definition List (সংজ্ঞা তালিকা) ব্যবহার করা হয় কোনো টার্ম এবং তার সংশ্লিষ্ট সংজ্ঞা প্রদর্শনের জন্য। এটি তিনটি মূল এলিমেন্ট ব্যবহার করে গঠিত: <dl> (definition list), <dt> (definition term), এবং <dd> (definition description)। <dl> পুরো তালিকার জন্য কনটেইনার হিসেবে কাজ করে, প্রতিটি টার্ম <dt> দ্বারা চিহ্নিত হয় এবং তার সংশ্লিষ্ট সংজ্ঞা <dd> এর মধ্যে থাকে। এই কাঠামো টার্ম এবং তাদের অর্থ স্পষ্ট ও সুশৃঙ্খলভাবে প্রদর্শন করতে সাহায্য করে।
+
+Definition lists in HTML are used to present terms and their corresponding definitions. They are structured using three main elements: <dl> (definition list), <dt> (definition term), and <dd> (definition description). The <dl> element acts as the container for the entire list, while each term is marked with <dt> and its associated description is enclosed within <dd>. This structure allows for a clear and organized presentation of terms and their meanings.

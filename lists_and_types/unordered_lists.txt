@@ -1,0 +1,5 @@
+Topic: Unordered Lists
+
+HTML-এ Unordered List (বিন্যস্ত তালিকা) আইটেমগুলোকে বুলেট পয়েন্ট সহ প্রদর্শন করে, যেখানে আইটেমগুলোর ক্রম গুরুত্বপূর্ণ নয়। এগুলো সম্পর্কিত কনটেন্টগুলোকে একত্রিত করার জন্য ব্যবহৃত হয়, কোনো নির্দিষ্ট সিকোয়েন্স বা প্রাধান্য নির্দেশ না করে। প্রতিটি আইটেম সাধারণত একটি বুলেট দিয়ে চিহ্নিত থাকে, যা তালিকার কনটেন্টকে সহজে ভিজুয়ালি আলাদা করতে এবং দ্রুত স্ক্যান করতে সাহায্য করে।
+
+Unordered lists present items in a bulleted format, where the order of the items is not significant. They are used to group related content together without implying any specific sequence or priority. Each item in the list is typically marked with a bullet point, making it easy to visually distinguish and scan the list's contents.

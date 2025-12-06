@@ -1,0 +1,5 @@
+Topic: Ordered Lists
+
+HTML-এ Ordered List (ক্রমবদ্ধ তালিকা) ব্যবহার করে আইটেমগুলোকে একটি নির্দিষ্ট ক্রমে প্রদর্শন করা হয়। তালিকার প্রতিটি আইটেম সাধারণত নম্বরযুক্ত থাকে, যাতে পাঠক সহজেই একটি সিকোয়েন্স বা র‍্যাংক অনুসরণ করতে পারে। <ol> ট্যাগ ক্রমবদ্ধ তালিকা তৈরি করতে ব্যবহৃত হয়, আর প্রতিটি আইটেম <li> ট্যাগের মাধ্যমে নির্ধারণ করা হয়।
+
+Ordered lists in HTML are used to display a series of items in a specific order. Each item in the list is typically numbered, allowing readers to easily follow a sequence or ranking. The <ol> tag is used to create an ordered list, and each list item is defined using the <li> tag.

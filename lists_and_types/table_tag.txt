@@ -1,0 +1,5 @@
+Topic: Table Tag
+
+HTML-এ <table> ট্যাগ ওয়েবপেজে টেবিল তৈরি করতে ব্যবহার করা হয়। এটি ডেটাকে সারি এবং কলামে সংগঠিত করে, স্প্রেডশিটের মতো। <table> ট্যাগের ভেতরে সাধারণত <tr> (table row) ট্যাগ সারি তৈরি করতে, <th> (table header) ট্যাগ শিরোনাম তৈরি করতে, এবং <td> (table data) ট্যাগ ডেটা সেল নির্ধারণ করতে ব্যবহৃত হয়। এগুলো মিলে টেবিলের কাঠামো ও কনটেন্ট নির্ধারণ করে।
+
+The HTML <table> tag is used to create tables on web pages. It organizes data into rows and columns, similar to a spreadsheet. Within the <table> tag, you'll find tags like <tr> for table rows, <th> for table headers, and <td> for table data cells, which define the structure and content of the table.
