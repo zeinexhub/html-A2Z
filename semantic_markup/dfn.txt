@@ -1,0 +1,5 @@
+Topic: dfn
+
+HTML-এ <dfn> এলিমেন্টটি একটি শব্দের সংজ্ঞা প্রদানের জন্য ব্যবহৃত হয়। এটি নির্দেশ করে যে কোন স্থানে কোনো শব্দ বা বাক্যাংশ প্রথমবার ডিফাইন করা হচ্ছে। সাধারণত সংজ্ঞা দেওয়া শব্দটি <dfn> ট্যাগের ভিতরে রাখা হয় এবং কাছাকাছি সেই শব্দের সংজ্ঞা বা ব্যাখ্যা প্রদান করা হয়।
+
+The <dfn> element in HTML represents the defining instance of a term. It's used to indicate the specific location where a word or phrase is being defined for the first time within a document. Typically, the term being defined is included within the <dfn> tags, and often a definition or explanation of the term is provided nearby.

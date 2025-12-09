@@ -1,0 +1,5 @@
+Topic: del
+
+HTML-এ <del> এলিমেন্টটি এমন টেক্সট নির্দেশ করতে ব্যবহৃত হয় যা ডকুমেন্ট থেকে মুছে ফেলা বা সরানো হয়েছে। ব্রাউজার সাধারণত এই টেক্সটকে স্ট্রাইকথ্রু (strikethrough) দিয়ে দেখায়, যা বোঝায় যে কনটেন্টটি আর বৈধ বা সঠিক নয়।এটি সম্পাদনা ও সংশোধনগুলি স্পষ্টভাবে প্রদর্শনের জন্য ব্যবহার করা হয়।
+
+The <del> element in HTML represents text that has been deleted or removed from a document. Browsers typically render deleted text with a strikethrough, visually indicating that the content is no longer valid or accurate. This element is useful for showing edits and revisions in a clear and understandable way.

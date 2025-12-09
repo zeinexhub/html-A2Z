@@ -1,0 +1,6 @@
+Topic: address
+
+HTML-এ <address> এলিমেন্টটি একটি ডকুমেন্ট বা প্রবন্ধের লেখক বা মালিকের যোগাযোগের তথ্য নির্দেশ করতে ব্যবহৃত হয়। এর মধ্যে শারীরিক ঠিকানা, ইমেইল ঠিকানা, ফোন নম্বর এবং সোশ্যাল মিডিয়া লিঙ্ক অন্তর্ভুক্ত থাকতে পারে। সাধারণত এটি একটি পৃষ্ঠার বা সেকশনের <footer> অংশে ব্যবহার করে যোগাযোগের বিস্তারিত প্রদর্শন করা হয়।
+
+The <address> element in HTML represents contact information for the author or owner of a document or article. This can include physical addresses, email addresses, phone numbers, and social media links. It's typically used within the <footer> of a page or section to provide contact details.
+

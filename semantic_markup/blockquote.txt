@@ -1,0 +1,5 @@
+Topic: blockquote
+
+HTML-এ <blockquote> এলিমেন্টটি এমন একটি টেক্সট অংশকে নির্দেশ করতে ব্যবহৃত হয় যা অন্য কোনো উৎস থেকে উদ্ধৃত। এটি দেখায় যে এতে থাকা কনটেন্ট একটি দীর্ঘ উদ্ধৃতি এবং সাধারণত আশেপাশের টেক্সট থেকে আলাদা করতে ইন্ডেন্টেশন বা অন্যান্য ভিজ্যুয়াল সংকেত ব্যবহার করা হয়। cite অ্যাট্রিবিউট ব্যবহার করে উৎস ডকুমেন্ট বা মেসেজের URL উল্লেখ করা যেতে পারে।
+
+The blockquote element in HTML represents a section of text that is quoted from another source. It's used to indicate that the enclosed content is an extended quotation, often displayed with indentation or other visual cues to distinguish it from the surrounding text. The cite attribute can be used to specify the URL of the source document or message.

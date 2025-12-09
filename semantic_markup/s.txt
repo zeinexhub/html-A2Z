@@ -1,0 +1,6 @@
+Topic: s
+
+HTML-এ <s> এলিমেন্টটি এমন কনটেন্ট নির্দেশ করতে ব্যবহৃত হয় যা আর সঠিক বা প্রাসঙ্গিক নয়। এটি দেখায় যে টেক্সটটি ভুল, সঠিক নয়, বা প্রাসঙ্গিক নয়। ব্রাউজার সাধারণত এই টেক্সটকে স্ট্রাইকথ্রু (strikethrough)দিয়ে প্রদর্শন করে, যা নির্দেশ করে যে এটি আর বৈধ নয়।
+
+The <s> element in HTML represents content that is no longer accurate or relevant. It indicates things that are no longer correct, accurate, or no longer relevant. Browsers typically render this element with a strikethrough, visually indicating the text has been removed or is no longer valid.
+

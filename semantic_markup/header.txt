@@ -1,0 +1,5 @@
+Topic: Header
+
+HTML-এ <header> এলিমেন্টটি পরিচিতিমূলক বা সূচনামূলক কনটেন্ট নির্দেশ করতে ব্যবহৃত হয়, যা সাধারণত একটি গ্রুপের পরিচিতিমূলক বা নেভিগেশনাল উপাদান ধারণ করে। এতে একটি হেডিং, লোগো, সার্চ ফর্ম বা অন্যান্য প্রাসঙ্গিক কনটেন্ট থাকতে পারে। এটি ডকুমেন্ট, প্রবন্ধ বা সেকশনের শীর্ষ অংশকে সংজ্ঞায়িত করতে ব্যবহার করা হয়।
+
+The `<header>` element represents introductory content, typically containing a group of introductory or navigational aids. It might contain a heading, logo, search form, or other relevant content. It's used to define the top section of a document, article, or section.

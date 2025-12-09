@@ -1,0 +1,5 @@
+Topic: ins Element
+
+HTML-এ <ins> এলিমেন্টটি এমন টেক্সট নির্দেশ করতে ব্যবহৃত হয় যা ডকুমেন্টে নতুনভাবে যুক্ত হয়েছে। এটি কনটেন্টে যোগ বা আপডেট নির্দেশ করতে ব্যবহৃত হয় এবং সাধারণত অরিজিনাল টেক্সট থেকে আলাদা করতে আন্ডারলাইন দিয়ে দেখানো হয়। এটি ওয়েবপেজের মধ্যে সংশোধন এবং পরিবর্তন স্পষ্টভাবে প্রকাশ করতে সাহায্য করে।
+
+The <ins> element in HTML represents text that has been inserted into a document. It's used to indicate additions or updates to content, often displayed with an underline to visually distinguish it from the original text. This element helps to clearly communicate revisions and modifications within a webpage.

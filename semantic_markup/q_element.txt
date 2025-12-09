@@ -1,0 +1,5 @@
+Topic: The <q> element
+
+HTML-এ <q> এলিমেন্টটি একটি সংক্ষিপ্ত, ইনলাইন উদ্ধৃতি (short inline quotation) নির্দেশ করতে ব্যবহৃত হয়। ব্রাউজার সাধারণত এর ভিতরের কনটেন্টের চারপাশে উদ্ধৃতি চিহ্ন দেখায়। এটি সংক্ষিপ্ত উদ্ধৃতির জন্য ব্যবহার করা হয় যা একটি প্যারাগ্রাফের মধ্যে ফিট হয়, যেখানে দীর্ঘ উদ্ধৃতির জন্য <blockquote> এলিমেন্ট ব্যবহার করা হয়।
+
+The <q> element in HTML represents a short, inline quotation. Browsers typically render this element with quotation marks around the content it contains. It's designed for brief quotes that fit within a paragraph, as opposed to longer, block-level quotations that would use the <blockquote> element.

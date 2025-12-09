@@ -1,0 +1,5 @@
+Topic: The <cite> Element
+
+HTML-এ <cite> এলিমেন্টটি একটি সৃজনশীল কাজের শিরোনাম (যেমন: বই, প্রবন্ধ, গান, সিনেমা, চিত্রকলা, ভাস্কর্য ইত্যাদি) নির্দেশ করতে ব্যবহৃত হয়। এটি সাধারণত কোনো সূত্র বা রেফারেন্স প্রদানের জন্য ব্যবহৃত হয়। <cite> এলিমেন্টের ভিতরের কন্টেন্ট ব্রাউজারে সাধারণত ইটালিক্সে দেখানো হয়, তবে CSS ব্যবহার করে এই স্টাইল পরিবর্তন করা যায়।
+
+The <cite> element in HTML is used to define the title of a creative work (e.g., a book, article, song, movie, painting, sculpture, etc.). It's typically used to provide a reference or citation for a source. The content inside the <cite> element is often rendered in italics by browsers, but this styling can be overridden with CSS.

@@ -1,0 +1,5 @@
+Topic: Abbreviation Element
+
+HTML-এ <abbr> ট্যাগ একটি সংক্ষিপ্তরূপ (abbreviation) বা এক্রোনিম (acronym) নির্দেশ করতে ব্যবহৃত হয়। এটি ব্যবহারকারীর জন্য সংক্ষিপ্ত শব্দের পূর্ণ অর্থ প্রদর্শন করতে সাহায্য করে যখন তারা সেই টেক্সটের উপর হোভার করে, যা এক্সেসিবিলিটি এবং স্পষ্টতা বাড়ায়। সংক্ষিপ্তরূপের পূর্ণ রূপ প্রদর্শনের জন্য title অ্যাট্রিবিউট ব্যবহার করা হয়।
+
+The <abbr> tag in HTML represents an abbreviation or acronym. It's useful for providing a full description of the abbreviated term when the user hovers over it, improving accessibility and clarity. The title attribute is used to specify the expanded form of the abbreviation.
