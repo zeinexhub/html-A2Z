@@ -1,0 +1,5 @@
+Topic: Form Constraints
+
+HTML ফর্ম কনস্ট্রেইন্ট (Form Constraints) হলো এমন নিয়ম যা আপনি ফর্মের ফিল্ডে ব্যবহারকারীরা কী ধরনের তথ্য প্রবেশ করতে পারবে তা নিয়ন্ত্রণ করতে সেট করেন। এই কনস্ট্রেইন্টগুলো নিশ্চিত করে যে সাবমিট করা তথ্য সঠিক এবং আপনার নির্ধারিত শর্ত পূরণ করছে। উদাহরণস্বরূপ, আপনি নির্দিষ্ট করতে পারেন যে একটি ফিল্ড অবশ্যই পূরণ করতে হবে, টেক্সটের জন্য সর্বনিম্ন বা সর্বোচ্চ দৈর্ঘ্য নির্ধারণ করতে পারেন, অথবা ইনপুটকে নির্দিষ্ট ডেটা টাইপের মধ্যে সীমাবদ্ধ করতে পারেন, যেমন সংখ্যা বা ইমেইল ঠিকানা। এই সীমাবদ্ধতাগুলো সরাসরি HTML অ্যাট্রিবিউট ব্যবহার করে ফর্ম এলিমেন্টের মধ্যে নির্ধারণ করা হয়।
+
+HTML form constraints are rules you set on form fields to control what kind of data users can enter. These constraints help ensure that the information submitted is valid and meets your requirements. For example, you can specify that a field is required, set a minimum or maximum length for text, or restrict the input to a specific data type like a number or email address. These limitations are defined using HTML attributes directly within the form elements.

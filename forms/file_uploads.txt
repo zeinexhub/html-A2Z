@@ -1,0 +1,5 @@
+Topic : File Uploads
+
+ফাইল আপলোডের মাধ্যমে ব্যবহারকারীরা তাদের কম্পিউটার থেকে কোনো ফাইল ওয়েব সার্ভারে পাঠাতে পারেন। সাধারণত এটি করা হয় একটি HTML form ব্যবহার করে, যেখানে <input> এলিমেন্টের type অ্যাট্রিবিউট "file" হিসেবে সেট করা থাকে। ফর্মটি সাবমিট করলে নির্বাচিত ফাইলগুলো সার্ভারে পাঠানো হয়, যেখানে সেগুলো প্রক্রিয়াকরণ এবং সংরক্ষণ করা হয়।
+
+File uploads allow users to send files from their computer to a web server. This is typically achieved through an HTML form that includes an <input> element with the type attribute set to "file". When the form is submitted, the selected file(s) are sent to the server for processing and storage.

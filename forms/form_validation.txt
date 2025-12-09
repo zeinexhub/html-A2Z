@@ -1,0 +1,5 @@
+Topic: Form Validation
+
+ফর্ম ভ্যালিডেশন হলো কোনো ফর্ম সাবমিট করার আগে ব্যবহারকারী যে তথ্য প্রদান করেছে তা সঠিক, সম্পূর্ণ এবং নির্ধারিত নিয়ম অনুযায়ী আছে কিনা তা যাচাই করার প্রক্রিয়া। এর ফলে সার্ভারে যে ডেটা পৌঁছায় তা সঠিক থাকে এবং প্রয়োজনীয় ফরম্যাট মেনে চলে, যা ভুল কমায় এবং ডেটার গুণগত মান বাড়ায়। এটি সাধারণত বিভিন্ন বিষয় যাচাই করতে ব্যবহৃত হয়—যেমন বাধ্যতামূলক ফিল্ড পূরণ হয়েছে কিনা, ইমেইল ঠিকানাটি সঠিক কিনা, তারিখের ফরম্যাট বৈধ কিনা, এবং পাসওয়ার্ডের শক্তি গ্রহণযোগ্য কিনা।
+
+Form validation is the process of checking if the information a user provides in a form is correct and complete before it's submitted. This ensures that the data received is accurate and meets the required format, preventing errors and improving data quality. It can involve checking for things like required fields, correct email addresses, valid date formats, and acceptable password strength.

@@ -1,0 +1,5 @@
+Topic: Labels and Inputs
+
+HTML-এ ফর্ম তৈরি করার জন্য labels এবং inputs হলো মৌলিক উপাদান। Label একটি বর্ণনামূলক টেক্সট প্রদান করে, যা ব্যবহারকারীকে জানায় সংশ্লিষ্ট input ফিল্ডে কী তথ্য দিতে হবে। অন্যদিকে, input এলিমেন্ট হলো ইন্টারঅ্যাকটিভ কন্ট্রোল, যেখানে ব্যবহারকারী তথ্য প্রবেশ করাতে পারে—যেমন টেক্সট, সংখ্যা, তারিখ, অথবা বিভিন্ন অপশনের মধ্যে নির্বাচন। এই দুটি একসাথে কাজ করে একটি ব্যবহারবান্ধব এবং অ্যাক্সেসিবল ফর্ম অভিজ্ঞতা তৈরি করে।
+
+Labels and inputs are fundamental building blocks for creating forms in HTML. Labels provide descriptive text that tells users what information is expected in a corresponding input field. Input elements, on the other hand, are the interactive controls where users can enter data, such as text, numbers, dates, or make selections from options. They work together to create a user-friendly and accessible form experience.
