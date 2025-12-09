@@ -1,0 +1,5 @@
+Topic: Video
+
+HTML-এর <video> এলিমেন্ট ব্যবহার করা হয় কোনো ভিডিও কনটেন্ট সরাসরি ওয়েবপেজে এম্বেড করার জন্য। এর মাধ্যমে ভিডিও ফাইল প্রদর্শন করা, প্লেব্যাক নিয়ন্ত্রণ করা, এবং ব্যবহারকারীদের ভিডিওর সাথে ইন্টারঅ্যাক্ট করার সুবিধা দেওয়া যায়—যেমন ভিডিও pause করা, play করা, ভলিউম সমন্বয় করা, অথবা fullscreen-এ দেখা। এই এলিমেন্টটি বিভিন্ন ভিডিও ফরম্যাট সাপোর্ট করে এবং ভিডিওর চেহারা ও আচরণ কাস্টমাইজ করার জন্য একাধিক অ্যাট্রিবিউট প্রদান করে।
+
+The <video> element in HTML is used to embed video content directly into a webpage. It allows you to display video files, control playback, and provide options for users to interact with the video, such as pausing, playing, adjusting volume, and viewing in fullscreen. The element supports various video formats and attributes to customize the video's appearance and behavior.

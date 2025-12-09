@@ -205,3 +205,35 @@
 - Table tag
 
 > The HTML `<table>` tag is used to create tables on web pages. It organizes data into rows and columns, similar to a spreadsheet. Within the `<table>` tag, you'll find tags like `<tr>` for table rows, `<th>` for table headers, and `<td>` for table data cells, which define the structure and content of the table.
+
+### Embedding Media
+
+---
+
+- Images
+
+> Images are a way to display visual content on a webpage. They are added to HTML documents using the `<img>` tag, which links to an image file. Attributes like src (source), alt (alternative text), width, and height are used to specify the image's location, description, and dimensions.
+
+- img vs figure
+
+> The `<img>` tag in HTML is used to embed a simple image directly into a webpage. It requires a src attribute to specify the image source. On the other hand, the `<figure>` element represents self-contained content, like an image, illustration, diagram, code snippet, etc., that is referenced as a single unit. It is typically used with the `<figcaption>` element to provide a caption for the figure.
+
+- Priority Hints
+
+> Priority Hints in HTML allow developers to indicate the relative priority of fetching resources like images. This helps the browser decide which images to load first, potentially improving page load times and user experience by prioritizing content that is immediately visible or more important to the user. This is achieved using the `fetchpriority` attribute.
+
+- Audio
+
+> Audio on the web involves incorporating sound files into HTML documents. This allows users to listen to music, podcasts, or other audio content directly within a webpage. The HTML <audio> element is used to embed audio, providing attributes for controlling playback, displaying controls, and specifying multiple source files for browser compatibility.
+
+- Video
+
+> The `<video>` element in HTML is used to embed video content directly into a webpage. It allows you to display video files, control playback, and provide options for users to interact with the video, such as pausing, playing, adjusting volume, and viewing in fullscreen. The element supports various video formats and attributes to customize the video's appearance and behavior.
+
+- Content Security Policy
+
+> (CSP) is a security standard introduced to prevent cross-site scripting (XSS), clickjacking, and other code injection attacks. It works by allowing you to define a whitelist of sources that the browser is permitted to load resources from. This helps to control the origins of scripts, stylesheets, images, and other assets, effectively reducing the attack surface of a web application.
+
+- iframe
+
+> An `iframe` (Inline Frame) is an HTML element that allows you to embed another HTML document within the current HTML page. It essentially creates a window within your webpage where you can display content from a different source, such as another website, a video, or even another HTML file on your own server.

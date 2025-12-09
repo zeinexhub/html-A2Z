@@ -1,0 +1,5 @@
+Topic: iframe
+
+একটি iframe (Inline Frame) হলো একটি HTML এলিমেন্ট, যা বর্তমান HTML পেজের ভিতরে অন্য একটি HTML ডকুমেন্ট এম্বেড করতে ব্যবহৃত হয়। এটি মূলত আপনার ওয়েবপেজের ভিতরে একটি ছোট জানালার মতো কাজ করে, যেখানে আপনি অন্য কোনো উৎসের কনটেন্ট প্রদর্শন করতে পারেন—যেমন অন্য কোনো ওয়েবসাইট, একটি ভিডিও, অথবা আপনার নিজের সার্ভারে থাকা অন্য কোনো HTML ফাইল।
+
+An iframe (Inline Frame) is an HTML element that allows you to embed another HTML document within the current HTML page. It essentially creates a window within your webpage where you can display content from a different source, such as another website, a video, or even another HTML file on your own server.

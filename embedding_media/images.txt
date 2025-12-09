@@ -1,0 +1,5 @@
+Topic: Images
+
+ওয়েবপেজে ভিজ্যুয়াল কনটেন্ট প্রদর্শনের একটি উপায় হলো ইমেজ। HTML ডকুমেন্টে ইমেজ যুক্ত করা হয় <img> ট্যাগ ব্যবহার করে, যা একটি ইমেজ ফাইলের সাথে লিঙ্ক করে। src (source), alt (alternative text), width, এবং height এর মতো অ্যাট্রিবিউটগুলো ব্যবহার করা হয় ইমেজের অবস্থান, বর্ণনা এবং মাত্রা নির্ধারণ করার জন্য।
+
+Images are a way to display visual content on a webpage. They are added to HTML documents using the <img> tag, which links to an image file. Attributes like src (source), alt (alternative text), width, and height are used to specify the image's location, description, and dimensions.

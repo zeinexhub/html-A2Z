@@ -1,0 +1,6 @@
+Topic: img vs figure
+
+HTML-এ <img> ট্যাগ ব্যবহার করা হয় একটি সাধারণ ইমেজ সরাসরি ওয়েবপেজে যুক্ত করার জন্য। এতে src অ্যাট্রিবিউট থাকা বাধ্যতামূলক, যা ইমেজের উৎস বা অবস্থান নির্দেশ করে।
+অন্যদিকে, <figure> এলিমেন্ট ব্যবহার করা হয় এমন কোনো স্বতন্ত্র কনটেন্ট উপস্থাপন করতে, যেমন ইমেজ, ইলাস্ট্রেশন, ডায়াগ্রাম, কোড স্নিপেট ইত্যাদি, যাকে একটি ইউনিট হিসেবে রেফার করা হয়। সাধারণত এটি <figcaption> এলিমেন্টের সঙ্গে ব্যবহার করা হয়, যা সেই figure-এর জন্য একটি ক্যাপশন বা বর্ণনা প্রদান করে।
+
+The <img> tag in HTML is used to embed a simple image directly into a webpage. It requires a src attribute to specify the image source. On the other hand, the <figure> element represents self-contained content, like an image, illustration, diagram, code snippet, etc., that is referenced as a single unit. It is typically used with the <figcaption> element to provide a caption for the figure.

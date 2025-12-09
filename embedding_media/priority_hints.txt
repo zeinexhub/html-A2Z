@@ -1,0 +1,5 @@
+Topic: Priority Hints
+
+HTML-এর Priority Hints ডেভেলপারদেরকে বিভিন্ন রিসোর্স, যেমন ইমেজ, লোড করার ক্ষেত্রে কোনটি আগে আনা হবে তার অগ্রাধিকার নির্ধারণ করতে সাহায্য করে। এর ফলে ব্রাউজার নির্ধারণ করতে পারে কোন ইমেজ আগে লোড করা উচিত, যা পেজ লোড সময় কমাতে এবং ব্যবহারকারীর অভিজ্ঞতা উন্নত করতে সহায়ক। বিশেষভাবে যেসব কনটেন্ট ব্যবহারকারীর সামনে তাৎক্ষণিকভাবে দৃশ্যমান বা বেশি গুরুত্বপূর্ণ, সেগুলোকে আগে লোড করার জন্য এই সুবিধাটি কার্যকর। এটি fetchpriority অ্যাট্রিবিউট ব্যবহার করে সম্পন্ন করা হয়।
+
+Priority Hints in HTML allow developers to indicate the relative priority of fetching resources like images. This helps the browser decide which images to load first, potentially improving page load times and user experience by prioritizing content that is immediately visible or more important to the user. This is achieved using the fetchpriority attribute.

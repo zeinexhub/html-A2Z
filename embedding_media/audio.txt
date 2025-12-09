@@ -1,0 +1,5 @@
+Topic: Audio
+
+ওয়েবে অডিও ব্যবহারের অর্থ হলো HTML ডকুমেন্টে সাউন্ড ফাইল যুক্ত করা। এর মাধ্যমে ব্যবহারকারীরা কোনো ওয়েবপেজ থেকেই সরাসরি গান, পডকাস্ট বা অন্য যেকোনো অডিও কনটেন্ট শুনতে পারেন। HTML-এর <audio> এলিমেন্ট ব্যবহার করে অডিও এম্বেড করা হয়, যেখানে প্লেব্যাক নিয়ন্ত্রণ, কন্ট্রোল প্রদর্শন করা, এবং বিভিন্ন ব্রাউজারে সামঞ্জস্য বজায় রাখতে একাধিক সোর্স ফাইল নির্ধারণ করার মতো অ্যাট্রিবিউট থাকে।
+
+Audio on the web involves incorporating sound files into HTML documents. This allows users to listen to music, podcasts, or other audio content directly within a webpage. The HTML <audio> element is used to embed audio, providing attributes for controlling playback, displaying controls, and specifying multiple source files for browser compatibility.

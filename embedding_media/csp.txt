@@ -1,0 +1,5 @@
+TOpic: Content Security Policy
+
+Content Security Policy (CSP) হলো একটি সিকিউরিটি স্ট্যান্ডার্ড, যা cross-site scripting (XSS), clickjacking, এবং অন্যান্য কোড ইনজেকশন আক্রমণ প্রতিরোধের জন্য ব্যবহৃত হয়। এটি এমন একটি ব্যবস্থা যেখানে আপনি নির্দিষ্ট করে দিতে পারেন ব্রাউজার কোন কোন উৎস (source) থেকে রিসোর্স লোড করতে পারবে। এর মাধ্যমে স্ক্রিপ্ট, স্টাইলশিট, ইমেজসহ অন্যান্য অ্যাসেট কোন উত্স থেকে আসবে তা নিয়ন্ত্রণ করা যায়, ফলে একটি ওয়েব অ্যাপ্লিকেশনের আক্রমণ-সম্ভাব্য অংশ উল্লেখযোগ্যভাবে কমে যায়।
+
+Content Security Policy (CSP) is a security standard introduced to prevent cross-site scripting (XSS), clickjacking, and other code injection attacks. It works by allowing you to define a whitelist of sources that the browser is permitted to load resources from. This helps to control the origins of scripts, stylesheets, images, and other assets, effectively reducing the attack surface of a web application.
