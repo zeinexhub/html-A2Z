@@ -1,0 +1,5 @@
+Topic: Main Element
+
+HTML-এ <main> এলিমেন্টটি ডকুমেন্টের <body> এর প্রধান কনটেন্ট নির্দেশ করতে ব্যবহৃত হয়। এতে পৃষ্ঠার মূল বিষয়বস্তু থাকা উচিত, এমন কনটেন্ট বাদ দিয়ে যা একাধিক পৃষ্ঠায় পুনরাবৃত্তি হয়, যেমন নেভিগেশন, হেডার বা ফুটার। <main> ব্যবহার করে এক্সেসিবিলিটি উন্নত হয় এবং সার্চ ইঞ্জিন ও সহায়ক প্রযুক্তিগুলোর জন্য পৃষ্ঠার উদ্দেশ্য স্পষ্টভাবে বোঝা সহজ হয়।
+
+The <main> element in HTML defines the primary content of a document's <body>. It should contain the central topic of the page, excluding any content that is repeated across multiple pages, such as navigation, headers, or footers. Using <main> helps improve accessibility and provides a clear structure for search engines and assistive technologies to understand the page's purpose.

@@ -1,0 +1,6 @@
+Topic: Nav
+
+HTML-এ <nav> এলিমেন্টটি এমন একটি পৃষ্ঠার অংশ নির্দেশ করতে ব্যবহৃত হয় যা নেভিগেশন লিঙ্ক ধারণ করে। এটি প্রধান নেভিগেশন ব্লকগুলোর জন্য ব্যবহার করা হয়, যেমন সাইটের মেনু, বিষয়বস্তুর সূচি (table of contents), বা ব্রেডক্রাম্বস। <nav> ব্যবহার করে আপনার কনটেন্টকে সঠিকভাবে গঠন করা যায় এবং এটি স্ক্রিন রিডার ও সার্চ ইঞ্জিনের জন্য নেভিগেশন অংশগুলো স্পষ্টভাবে চিহ্নিত করে এক্সেসিবিলিটি বাড়ায়।
+
+The <nav> element in HTML is used to define a section of a page that contains navigation links. It's intended for major navigational blocks, like a site's menu, a table of contents, or a set of breadcrumbs. Using <nav> helps structure your content and makes it more accessible to screen readers and search engines by clearly identifying navigation sections.
+

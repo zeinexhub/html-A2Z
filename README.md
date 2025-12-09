@@ -303,3 +303,19 @@
 - Header
 
 > The `<header>` element represents introductory content, typically containing a group of introductory or navigational aids. It might contain a heading, logo, search form, or other relevant content. It's used to define the top section of a document, article, or section.
+
+- Nav
+
+> The `<nav>` element in HTML is used to define a section of a page that contains navigation links. It's intended for major navigational blocks, like a site's menu, a table of contents, or a set of breadcrumbs. Using <nav> helps structure your content and makes it more accessible to screen readers and search engines by clearly identifying navigation sections.
+
+- Main Element
+
+> The `<main>` element in HTML defines the primary content of a document's `<body>`. It should contain the central topic of the page, excluding any content that is repeated across multiple pages, such as navigation, headers, or footers. Using `<main>` helps improve accessibility and provides a clear structure for search engines and assistive technologies to understand the page's purpose.
+
+- Section Tag
+
+> The `<section>` tag in HTML is used to define thematic groupings of content within a document. It's a way to organize related content together, like chapters, introductions, or news items. A section typically has a heading and can contain other HTML elements to structure the content within it.
+
+- Article Element
+
+> The `<article>` element in HTML represents a self-contained composition in a document, page, application, or site. It is intended to independently distributable or reusable, for example, in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, or any other independent item of content.
