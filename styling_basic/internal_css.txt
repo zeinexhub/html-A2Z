@@ -1,0 +1,5 @@
+Topic: Internal CSS
+
+Internal CSS ব্যবহার করে তুমি সরাসরি HTML ডকুমেন্টের ভেতরেই স্টাইল যোগ করতে পারো, যেখানে <style> ট্যাগ ব্যবহার করা হয়। সাধারণত এই ট্যাগটি HTML ফাইলের <head> সেকশনের মধ্যে রাখা হয়। <style> ট্যাগের ভেতরে তুমি CSS নিয়ম লিখতে পারো, যা সেই নির্দিষ্ট পেজের HTML উপাদানগুলোর উপর প্রয়োগ হয় এবং তাদের চেহারা ও লেআউট নিয়ন্ত্রণ করে।
+
+Internal CSS allows you to add styles directly within an HTML document using the <style> tag. This tag is typically placed inside the <head> section of your HTML file. Within the <style> tag, you can define CSS rules that apply to specific HTML elements on that page, controlling their appearance and layout.

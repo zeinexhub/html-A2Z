@@ -1,0 +1,5 @@
+Topic: Inline CSS
+
+Inline CSS বলতে বোঝায় HTML এলিমেন্টের ভেতরেই সরাসরি style অ্যাট্রিবিউট ব্যবহার করে স্টাইল প্রয়োগ করা। এই পদ্ধতিতে কোনো নির্দিষ্ট এলিমেন্টের জন্য আলাদা ভিজুয়াল প্রপার্টি নির্ধারণ করা যায়, এবং এটি বাহ্যিক বা অভ্যন্তরীণ স্টাইলশীটে নির্ধারিত স্টাইলকেও ওভাররাইড করতে পারে। দ্রুত, একক এলিমেন্ট-ভিত্তিক স্টাইলিংয়ের জন্য এটি সুবিধাজনক হলেও বড় প্রজেক্টে এটি ব্যবহারে জটিলতা বাড়ে, কারণ এতে স্টাইল পুনঃব্যবহার করা যায় না এবং কাঠামো ও স্টাইল আলাদা রাখার সুবিধা নষ্ট হয়।
+
+Inline CSS involves applying styles directly to individual HTML elements using the style attribute. This method allows you to define specific visual properties for a single element, overriding any styles defined in external stylesheets or internal style blocks. It's useful for quick, element-specific styling, but can become difficult to manage for larger projects due to its lack of reusability and separation of concerns.

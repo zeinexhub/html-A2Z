@@ -1,0 +1,5 @@
+Topic: Aside Element
+
+HTML-এর <aside> এলিমেন্টটি এমন একটি সেকশন নির্দেশ করে, যা মূল কনটেন্টের সাথে সরাসরি সম্পর্কিত নয় কিন্তু আংশিকভাবে সংযুক্ত। এটি সাধারণত সাইডবার, পুল-কোট বা অতিরিক্ত তথ্য প্রদর্শনের জন্য ব্যবহার করা হয়—যা মূল বিষয়বস্তু বোঝার জন্য অত্যাবশ্যক নয়, কিন্তু প্রসঙ্গ বুঝতে সাহায্য করে। সহজভাবে বলতে গেলে, এই কনটেন্টটি বাদ দিলেও ব্যবহারকারী মূল টপিক ঠিকই বুঝতে পারবে; শুধু অতিরিক্ত তথ্য কমে যাবে।
+
+The <aside> element in HTML represents a section of a page that is tangentially related to the main content. It's often used for sidebars, pull quotes, or other content that provides additional information or context but isn't essential to understanding the primary content. Think of it as content that can be removed without significantly impacting the user's comprehension of the main topic.

@@ -1,0 +1,5 @@
+Topic: External CSS
+
+External CSS ব্যবহার করার অর্থ হলো HTML ডকুমেন্টের সব স্টাইলিং নিয়ম আলাদা ফাইল (যার এক্সটেনশন .css) হিসেবে তৈরি করা। এরপর <link> ট্যাগ ব্যবহার করে এই CSS ফাইলগুলোকে HTML ডকুমেন্টের সাথে যুক্ত করা হয়। এর মাধ্যমে একই স্টাইল একাধিক ওয়েবপেজে প্রয়োগ করা যায় এবং HTML কোডকে পরিষ্কার ও সুসংগঠিত রাখা সম্ভব হয়। এই পদ্ধতি ওয়েবসাইটের ডিজাইনকে পুনরায় ব্যবহারযোগ্য ও সহজে রক্ষণাবেক্ষণযোগ্য করে তোলে।
+
+External CSS involves creating separate files (with a .css extension) to hold all the styling rules for an HTML document. These CSS files are then linked to the HTML document using the <link> tag, allowing you to apply the same styles across multiple pages and keep your HTML code clean and organized. This approach promotes reusability and maintainability of your website's design.

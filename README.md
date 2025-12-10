@@ -319,3 +319,29 @@
 - Article Element
 
 > The `<article>` element in HTML represents a self-contained composition in a document, page, application, or site. It is intended to independently distributable or reusable, for example, in syndication. This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, or any other independent item of content.
+
+- Aside Element
+
+> The `<aside>` element in HTML represents a section of a page that is tangentially related to the main content. It's often used for sidebars, pull quotes, or other content that provides additional information or context but isn't essential to understanding the primary content. Think of it as content that can be removed without significantly impacting the user's comprehension of the main topic.
+
+- Footer
+
+> The `<footer>` element in HTML represents a container for introductory content or navigation links that typically appear at the end of a section or document. It usually contains information about the author, copyright data, terms of use, contact information, related documents, and sometimes navigation. A footer is not necessarily restricted to the bottom of the page; it can be used within sections to denote the end of that specific content area.
+
+### Styling Basics
+
+---
+
+> Styling Basics in HTML involves using CSS (Cascading Style Sheets) to control the visual presentation of HTML elements. This includes properties like colors, fonts, layout, and responsiveness, allowing you to customize the look and feel of your web pages beyond the default browser styles. By applying CSS rules, you can create visually appealing and user-friendly websites.
+
+- Inline CSS
+
+> Inline CSS involves applying styles directly to individual HTML elements using the `style` attribute. This method allows you to define specific visual properties for a single element, overriding any styles defined in external stylesheets or internal style blocks. It's useful for quick, element-specific styling, but can become difficult to manage for larger projects due to its lack of reusability and separation of concerns.
+
+- Internal CSS
+
+> Internal CSS allows you to add styles directly within an HTML document using the `<style>` tag. This tag is typically placed inside the `<head>` section of your HTML file. Within the `<style>` tag, you can define CSS rules that apply to specific HTML elements on that page, controlling their appearance and layout.
+
+- External CSS
+
+> External CSS involves creating separate files (with a .css extension) to hold all the styling rules for an HTML document. These CSS files are then linked to the HTML document using the `<link>` tag, allowing you to apply the same styles across multiple pages and keep your HTML code clean and organized. This approach promotes reusability and maintainability of your website's design.
