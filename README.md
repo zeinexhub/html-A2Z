@@ -345,3 +345,21 @@
 - External CSS
 
 > External CSS involves creating separate files (with a .css extension) to hold all the styling rules for an HTML document. These CSS files are then linked to the HTML document using the `<link>` tag, allowing you to apply the same styles across multiple pages and keep your HTML code clean and organized. This approach promotes reusability and maintainability of your website's design.
+
+### Including JavaScript
+
+---
+
+> JavaScript can be added to HTML documents to make web pages interactive. This is done by embedding the JavaScript code directly within the HTML or by linking to external JavaScript files. Embedding uses the `<script>` tag, while linking uses the `<script>` tag with the src attribute pointing to the JavaScript file.
+
+### Accessibility
+
+---
+
+> Accessibility in HTML refers to the practice of designing and developing web content that is usable by people with disabilities. This involves ensuring that websites and web applications are perceivable, operable, understandable, and robust for individuals who may have visual, auditory, motor, or cognitive impairments, allowing them to access information and interact with the web effectively.
+
+### SEO
+
+---
+
+> Search Engine Optimization (SEO) is the practice of improving a website to increase its visibility in search engine results pages (SERPs). This involves optimizing various elements of a website, such as its content, structure, and HTML code, to make it more appealing to search engines like Google. The goal is to rank higher in search results for relevant keywords, which can drive more organic traffic to the website.
